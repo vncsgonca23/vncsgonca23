@@ -1,16 +1,13 @@
-### Hi there 👋
+# Vinícius Gonçalves
+<br>
 
-<!--
-**vncsgonca23/vncsgonca23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Gonçalves-4682b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vncsgonca23/)](https://www.linkedin.com/in/vncsgonca23/) 
+[![Gmail Badge](https://img.shields.io/badge/-vncsgonca23@gmail.com-f75175?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vncsgonca23@gmail.com)](mailto:vncsgonca23@gmail.com)
 
-Here are some ideas to get you started:
+Entusiasta das melhores tecnologias de desenvolvimento desktop, web e mobile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apaixonado pela aventura de aprender, entender seu funcionamento, compreender o contexto em que foram criadas e utilizar com o proposito de suas origens.
+
+"Quem muito olha para o passado não enxerga o presente e tropeça no futuro."
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vncsgonca23&layout=compact&langs_count=7&theme=midnight-purple)
