@@ -2,7 +2,7 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vinícius%20Gonçalves-4682b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vncsgonca23/)](https://www.linkedin.com/in/vncsgonca23/) 
-[![Outlook Badge](https://img.shields.io/badge/-vncsgonca23@outlook.com-f75175?style=flat-square&logo=Outlook&logoColor=white&link=mailto:vncsgonca23@outlook.com)](mailto:vncsgonca23@outlook.com)
+[![Outlook Badge](https://img.shields.io/badge/-vncsgonca23@outlook.com-0078D4?style=flat-square&logo=Outlook&logoColor=white&link=mailto:vncsgonca23@outlook.com)](mailto:vncsgonca23@outlook.com)
 
 Atuo com tecnologia há mais de cinco anos no setor bancário, combinando experiência em Engenharia de Dados e Engenharia de Software para construir soluções confiáveis em ambientes críticos.
  
